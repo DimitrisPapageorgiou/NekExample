@@ -82,7 +82,9 @@ C     Set initial conditions
       ux   = 1.0
       uy   = 0.0
       uz   = 0.0
+
       temp = 2.0 !changed temperature
+
 
       return
       end
