@@ -7,3 +7,5 @@ makefile
 nek5000
 obj
 SESSION.NAME
+example0*
+.state
